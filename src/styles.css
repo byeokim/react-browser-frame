@@ -9,7 +9,7 @@
 }
 
 .browser-frame {
-  border: 2px solid var(--grey-light);
+  /*border: 2px solid var(--grey-light);*/
   border-radius: 5px;
 }
 .browser-frame__top {
